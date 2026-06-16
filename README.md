@@ -31,3 +31,18 @@ A console-based chat application built using Python and Object-Oriented Programm
 
 ### Chat History
 ![History](screenshots/output_3.png)
+
+## How to Run
+
+```bash
+python chat_system.py
+```
+
+## OOP Concepts Used
+
+- Classes and Objects
+- Constructors (`__init__`)
+- Encapsulation
+- Class Variables
+- Object Interaction
+- Special Method (`__str__`)
